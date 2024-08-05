@@ -1,4 +1,3 @@
-[16:50] JOAO VITOR PEREIRA DE FREITAS CORREA
 <?php
 
 require_once 'connect.php';
